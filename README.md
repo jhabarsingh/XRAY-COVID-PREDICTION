@@ -1,6 +1,7 @@
 # Detect Corona From Xray Report
 
 <img src='staticfiles/corona.png' />
+---
 ### DOCKER SETUP
 * download docker, docker-compose
 * build and start the docker-compose
