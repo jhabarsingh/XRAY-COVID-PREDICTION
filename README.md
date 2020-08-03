@@ -1,6 +1,6 @@
 # Detect Corona From Xray Report
 
-
+<img src='staticfiles/corona.png' />
 ### DOCKER SETUP
 * download docker, docker-compose
 * build and start the docker-compose
@@ -15,4 +15,3 @@ sudo docker-compose up
 * integrate this repository to the project
 *  build it on travis-ci
 
-<img src='staticfiles/corona.png' />
