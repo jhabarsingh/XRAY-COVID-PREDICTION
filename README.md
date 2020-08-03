@@ -9,8 +9,6 @@
 ```bash
 sudo docker-compose build
 sudo docker-compose up
-# Open index.html
-# Upload any lungs xray-report
 ```
 * now start working on the project
 
