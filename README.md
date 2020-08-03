@@ -15,4 +15,4 @@ sudo docker-compose up
 * integrate this repository to the project
 *  build it on travis-ci
 
-![Corona app]('staticfiles/corona.png')
+<img src='staticfiles/corona.png' />
