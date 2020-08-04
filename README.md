@@ -3,7 +3,7 @@
 <img src='staticfiles/corona.png' >
 
 ---
-## I you want to contribute
+## Want To Contribute
 ### DOCKER SETUP
 * download docker, docker-compose
 * build and start the docker-compose
