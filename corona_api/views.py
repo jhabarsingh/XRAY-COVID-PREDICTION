@@ -10,10 +10,11 @@ from PIL import Image
 @csrf_exempt
 def get_corona(request, *args, **kwargs):
 	if request.method == 'POST':
-		data = request.POST
-		image = request.FILES['image']
-		print(image)
-		image = Image.open(image).convert('RGB')
-		data = xray_production.predict(image)
-		return JsonResponse({'data': data})	
+		print(request.FILES)
+		# data = request.POST
+		# image = request.FILES['image']
+		# print(request.FILES)
+		# image = Image.open(image).convert('RGB')
+		# data = xray_production.predict(image)
+		# return JsonResponse({'data': data})	
 	return JsonResponse({'msg':'GET'})
