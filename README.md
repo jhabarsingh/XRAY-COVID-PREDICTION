@@ -1,4 +1,4 @@
-# Detect Corona From Xray Report
+# Detect COVID From Xray Report
 
 <img src='staticfiles/corona.png' >
 
