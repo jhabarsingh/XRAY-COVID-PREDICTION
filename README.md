@@ -13,6 +13,9 @@
 <img  title="PY Torch" src="https://miro.medium.com/max/3006/1*U62uxIOclJe-Lyre14p_rQ.png" height="70px" style="margin-right:5px;" />
 </div>
 </details>
+
+---
+
 <img src='staticfiles/corona.png' >
 
 ---
