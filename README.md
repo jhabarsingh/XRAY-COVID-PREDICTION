@@ -19,6 +19,16 @@
 <img src='staticfiles/corona.png' >
 
 ---
+
+## About
+It's a ML Model to detect covid from xray reports of the patient.
+
+**INPUT** : **JPEG, PNG, JPG**
+
+**OUTPUT** : **VIRAL, COVID+, COVID-**
+
+> **PYTORCH IMAGE CLASSIFIER** is used to implement this ML Model.
+---
 ## Want To Contribute
 ### DOCKER SETUP
 * download docker, docker-compose
