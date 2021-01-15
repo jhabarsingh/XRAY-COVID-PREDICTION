@@ -16,11 +16,7 @@
 </div>
 </details>
 
----
-
-<img src='staticfiles/corona.png' >
-
----
+![Covid Prediction](staticfiles/corona.png)
 
 ## About
 It's a ML Model to detect covid from xray reports of the patient.
@@ -46,4 +42,4 @@ sudo docker-compose up
 * Write test cases if it is needed
 * It should be linted [ PEP8 Guidelines ]
 
----
+
