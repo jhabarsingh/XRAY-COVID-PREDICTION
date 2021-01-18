@@ -1,4 +1,4 @@
-# Detect COVID From Xray Report
+# Predict COVID From Xray Report
 
 <details>
   <summary>:zap: TECH STACK</summary>
