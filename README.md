@@ -25,8 +25,9 @@ It's a ML Model to detect covid from xray reports of the patient.
 
 **OUTPUT** : **VIRAL, COVID+, COVID-**
 
-##### **PYTORCH IMAGE CLASSIFIER** is used to implement this ML Model.
----
+#### **PYTORCH IMAGE CLASSIFIER** is used to implement this ML Model.
+
+
 ## Want To Contribute
 ### DOCKER SETUP
 * download docker, docker-compose
