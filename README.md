@@ -14,14 +14,11 @@
 ![Covid Prediction](staticfiles/corona.png)
 
 ## About
-It's a ML Model to detect covid from xray reports of the patient.
-
-**INPUT** : **JPEG, PNG, JPG**
-
-**OUTPUT** : **VIRAL, COVID+, COVID-**
-
-#### **PYTORCH IMAGE CLASSIFIER** is used to implement this ML Model.
-#### [DATASET](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database?select=COVID-19+Radiography+Database) used to train our model
+It's a ML Model to detect covid from xray reports of the patient
+  - **INPUT** : **JPEG, PNG, JPG**
+  - **OUTPUT** : **VIRAL, COVID+, COVID-**
+  - #### **PYTORCH IMAGE CLASSIFIER** is used to implement this ML Model.
+  - #### [DATASET](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database?select=COVID-19+Radiography+Database) used to train our model
 
 ## Want To Contribute
 ### DOCKER SETUP
