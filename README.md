@@ -20,7 +20,7 @@ It's a ML Model to detect covid from xray reports of the patient
   - **PYTORCH IMAGE CLASSIFIER** is used to implement this ML Model.
   - [DATASET](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database?select=COVID-19+Radiography+Database) used to train our model
 
-## Want To Contribute
+## [Want To Contribute](https://github.com/jhabarsingh/DSALGO-VISUALIZER)
 ### DOCKER SETUP
 * download docker, docker-compose
 * build and start the docker-compose
