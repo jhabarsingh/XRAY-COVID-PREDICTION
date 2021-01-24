@@ -29,6 +29,8 @@ source_dirs = ['NORMAL', 'Viral Pneumonia', 'COVID-19']
 # Creating Custom Dataset
 
 def joiner(file_name):
+    '''Returns File location used in the django backend
+    '''
     return os.path.join(os.path.dirname(os.path.abspath(__file__)), file_name)
 
 
